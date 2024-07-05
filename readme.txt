@@ -1,5 +1,5 @@
-=== Theme JSON CSS Use ===
-Contributors: yourname
+=== JSON Value display ===
+Contributors: karmatosed
 Tags: theme, json, css, admin notice
 Requires at least: 5.2
 Tested up to: 5.8
@@ -16,7 +16,7 @@ This plugin shows how to extract and use CSS values defined in a theme's theme.j
 
 == Installation ==
 
-1. Upload `theme-json-css-use` to the `/wp-content/plugins/` directory.
+1. Upload `json-value-display` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Changelog ==
